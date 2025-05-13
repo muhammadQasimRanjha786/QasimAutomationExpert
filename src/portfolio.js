@@ -29,7 +29,7 @@ const greeting = {
 
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1Kd8kneZ4nb-B7UZanysAhrjqddQ7bQyl/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/uc?export=download&id=1Kd8kneZ4nb-B7UZanysAhrjqddQ7bQyl", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
